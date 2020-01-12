@@ -1,4 +1,5 @@
 #Python resoluation check
+#By Chris Andres
 import os
 
 
